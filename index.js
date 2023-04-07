@@ -1,4 +1,3 @@
-
 const algosdk = require('algosdk');
 const createAdress = require('./address');
 const checkBalance = require('./balance');
